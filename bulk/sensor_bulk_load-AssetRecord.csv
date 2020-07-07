@@ -51,6 +51,7 @@ ATAPL-58322-00009,ATAPL-58322-00009,Sensor,0,3-Wavelength Fluorometer: FLORT Ser
 ATAPL-58322-00010,ATAPL-58322-00010,Sensor,0,3-Wavelength Fluorometer: FLORT Series D,ECO-triplet-w (3-wavelength fluorometer w/ wiper) (FLOR-D),WET Labs,ECO Triplet-w,1293,,20150423,13403.46,,University of Washington
 ATAPL-58322-00011,ATAPL-58322-00011,Sensor,0,2-Wavelength Fluorometer: FLORD Series D,ECO-triplet-w (3-wavelength fluorometer w/ wiper) (FLOR-D),WET Labs,ECO Triplet-w,1297,,20150423,13403.46,,University of Washington
 ATAPL-58322-00012,ATAPL-58322-00012,Sensor,0,2-Wavelength Fluorometer: FLORD Series D,ECO-triplet-w (3-wavelength fluorometer w/ wiper) (FLOR-D),WET Labs,ECO Triplet-w,1294,,20150430,13403.46,,University of Washington
+ATAPL-58322-00014,ATAPL-58322-00014,Sensor,0,2-Wavelength Fluorometer: FLORD Series D,ECO-triplet-w (3-wavelength fluorometer w/ wiper) (FLOR-D),WET Labs,ECO Triplet-w,5967,,,,,University of Washington
 ATAPL-58323-00001,ATAPL-58323-00001,Sensor,0,"Horizontal Electric Field, Pressure and Inverted Echo Sounder: HPIES Series A",HPIES for RSN,APL,Custom,1,,,,,University of Washington
 ATAPL-58323-00002,ATAPL-58323-00002,Sensor,0,"Horizontal Electric Field, Pressure and Inverted Echo Sounder: HPIES Series A",HPIES for RSN,APL,Custom,2,,,,,University of Washington
 ATAPL-58323-00003,ATAPL-58323-00003,Sensor,0,"Horizontal Electric Field, Pressure and Inverted Echo Sounder: HPIES Series A",HPIES for RSN,APL,Custom,3,,,,,University of Washington
@@ -266,9 +267,9 @@ ATAPL-70111-00003,ATAPL-70111-00003,Sensor,0,CDOM Fluorometer: FLCDR Series A,We
 ATAPL-70111-00004,ATAPL-70111-00004,Sensor,0,CDOM Fluorometer: FLCDR Series A,Wetlabs FLCDRTD with Impulse MCBH(WB)-6-MP-Ti connector,WET Labs,FLCDRTD,FLCDRTD-3715,,20141222,13330,,University of Washington
 ATAPL-70111-00005,ATAPL-70111-00005,Sensor,0,Wetlabs FLCDRTD with Impulse MCBH(WB)-6-MP-Ti connector,Wetlabs FLCDRTD with Impulse MCBH(WB)-6-MP-Ti connector,WET Labs,FLCDRTD (CDOM),FLCDRTD-3716,,20141222,13330,,University of Washington
 ATAPL-70113-00001,ATAPL-70113-00001,Sensor,0,Benthic Fluid Flow: FLOBN Series M,RS01SUM2-MJ01B-00-FLOBNA101M,Solomon,Mosquito,1,,,,,University of Washington
-ATAPL-70113-00002,ATAPL-70113-00002,Sensor,0,Benthic Fluid Flow: FLOBN Series M,RS01SUM2-MJ01B-00-FLOBNA101M,Solomon,Mosquito,4,,,,,University of Washington
+ATAPL-70113-00002,ATAPL-70113-00002,Sensor,0,Benthic Fluid Flow: FLOBN Series M,RS01SUM2-MJ01B-00-FLOBNA101M,Solomon,Mosquito,2,,,,,University of Washington
 ATAPL-70113-00003,ATAPL-70113-00003,Sensor,0,Benthic Fluid Flow: FLOBN Series M,RS01SUM2-MJ01B-00-FLOBNA101M,Solomon,Mosquito,3,,,,,University of Washington
-ATAPL-70113-00004,ATAPL-70113-00004,Sensor,0,Benthic Fluid Flow: FLOBN Series M,RS01SUM2-MJ01B-00-FLOBNA101M,Solomon,Mosquito,2,,,,,University of Washington
+ATAPL-70113-00004,ATAPL-70113-00004,Sensor,0,Benthic Fluid Flow: FLOBN Series M,RS01SUM2-MJ01B-00-FLOBNA101M,Solomon,Mosquito,4,,,,,University of Washington
 ATAPL-70114-00001,ATAPL-70114-00001,Sensor,0,Single Point Velocity Meter: VELPT Series D,"Aquadopp, 300m depth rating (P/C 901101) per attached quote (VELPT)",Nortek,Aquadopp,AQS-6031/AQD 8493,,20130425,9420,,University of Washington
 ATAPL-70114-00002,ATAPL-70114-00002,Sensor,0,Single Point Velocity Meter: VELPT Series D,"Aquadopp, 300m depth rating (P/C 901101) per attached quote (VELPT)",Nortek,Aquadopp,AQS 6334/AQD 11653,,20131211,9240,,University of Washington
 ATAPL-70114-00003,ATAPL-70114-00003,Sensor,0,Single Point Velocity Meter: VELPT Series D,"Aquadopp, 300m depth rating (P/C 901101) per attached quote (VELPT)",Nortek,Aquadopp,AQS-6389/AQD 11641,,20131211,9240,,University of Washington
@@ -283,15 +284,28 @@ ATAPL-70168-00002,ATAPL-70168-00002,Sensor,0,HD Digital Video Camera with Strobe
 ATAPL-70168-00003,ATAPL-70168-00003,Sensor,0,HD Digital Video Camera with Strobes: CAMHD Series A,"SUBC1CM01, SubC 1Cam Underwater Camera in titanium housing",APL,Custom,SUBC13114,,20130603,25600,,University of Washington
 ATAPL-70248-00001,ATAPL-70248-00001,Sensor,0,HD Digital Video Camera with Strobes: CAMHD Series A,Seafloor High Definition Video Camera,APL,Custom,P1-SUBC13115,,20130114,32177,,University of Washington
 ATAPL-70248-00002,ATAPL-70248-00002,Sensor,0,HD Digital Video Camera with Strobes: CAMHD Series A,Seafloor High Definition Video Camera,APL,Custom,P2-SUBC13114,,20130114,32177,,University of Washington
-ATAPL-71553-00005,OL000579,Sensor,0,Cabled Wire-Following Profiler Controller: Docking Station,Controller,APL,DP Docking Station,5,,,,RS03AXPD-DP03A-ENG-00001,University of Washington
-ATAPL-71553-00203,OL000575,Sensor,0,Cabled Wire-Following Profiler Controller: Docking Station,Controller,APL,DP Docking Station,203,,,,CE04OSPD-DP01B-ENG-00001,University of Washington
-ATAPL-71553-00204,OL000577,Sensor,0,Cabled Wire-Following Profiler Controller: Docking Station,Controller,APL,DP Docking Station,204,,,,RS01SBPD-DP01A-ENG-00001,University of Washington
+ATAPL-71444-00001,ATAPL-71444-00001,Sensor,0,Deep Profiler Vehicle Electronics Assembly,APL,Custom,SN00001,,,,,,University of Washington
+ATAPL-71444-00002,ATAPL-71444-00002,Sensor,0,Deep Profiler Vehicle Electronics Assembly,APL,Custom,SN00002,,,,,,University of Washington
+ATAPL-71444-00003,ATAPL-71444-00003,Sensor,0,Deep Profiler Vehicle Electronics Assembly,APL,Custom,SN00003,,,,,,University of Washington
+ATAPL-71444-00004,ATAPL-71444-00004,Sensor,0,Deep Profiler Vehicle Electronics Assembly,APL,Custom,SN00004,,,,,,University of Washington
+ATAPL-71444-00005,ATAPL-71444-00005,Sensor,0,Deep Profiler Vehicle Electronics Assembly,APL,Custom,SN00005,,,,,,University of Washington
+ATAPL-71444-00006,ATAPL-71444-00006,Sensor,0,Deep Profiler Vehicle Electronics Assembly,APL,Custom,SN00006,,,,,,University of Washington
+ATAPL-71444-00007,ATAPL-71444-00007,Sensor,0,Deep Profiler Vehicle Electronics Assembly,APL,Custom,SN00007,,,,,,University of Washington
+ATAPL-71532-00001,ATAPL-71532-00001,Sensor,0,Deep Profiler Dock Electronics Assembly,APL,Custom,SN00001,,,,,,University of Washington
+ATAPL-71532-00002,ATAPL-71532-00002,Sensor,0,Deep Profiler Dock Electronics Assembly,APL,Custom,SN00002,,,,,,University of Washington
+ATAPL-71532-00003,ATAPL-71532-00003,Sensor,0,Deep Profiler Dock Electronics Assembly,APL,Custom,SN00003,,,,,,University of Washington
+ATAPL-71532-00004,ATAPL-71532-00004,Sensor,0,Deep Profiler Dock Electronics Assembly,APL,Custom,SN00004,,,,,,University of Washington
+ATAPL-71532-00005,ATAPL-71532-00005,Sensor,0,Deep Profiler Dock Electronics Assembly,APL,Custom,SN00005,,,,,,University of Washington
 ATAPL-78437-00001,ATAPL-78437-00001,Sensor,0,Underwater Digital Camera,Underwater Digital Camera,SubC,Rayfin,SUBC18830,,20180930,43237,,University of Washington
 ATAPL-78437-00002,ATAPL-78437-00002,Sensor,0,Underwater Digital Camera,Underwater Digital Camera,SubC,Rayfin,SUBC18831,,20180930,43237,,University of Washington
 ATAPL-78437-00003,ATAPL-78437-00003,Sensor,0,Underwater Digital Camera,Underwater Digital Camera,SubC,Rayfin,SUBC18832,,20180930,43237,,University of Washington
 ATAPL-78437-00004,ATAPL-78437-00004,Sensor,0,Underwater Digital Camera,Underwater Digital Camera,SubC,Rayfin,SUBC18833,,20180930,43237,,University of Washington
 ATCWK-67627-00006,,Sensor,0,CTD Profiler: CTDPF Series B,Seabird 16+V2 CTD 3500m,Sea-Bird Electronics,SBE 16plus V2,16-50209,3.1.8,20170401,16060,PI,University of Washington
 ATCWK-67627-00007,,Sensor,0,CTD Profiler: CTDPF Series B,Seabird 16+V2 CTD 3500m,Sea-Bird Electronics,SBE 16plus V2,16-50210,3.1.8,20170401,16060,PI,University of Washington
+ATCWK-67627-00008,,Sensor,0,CTD Profiler: CTDPF Series B,Seabird 16+V2 CTD 2000m,Sea-Bird Electronics,SBE 16plus V2,16-50321,3.1.8,,,PI,University of Washington
+ATCWK-67627-00009,,Sensor,0,CTD Profiler: CTDPF Series B,Seabird 16+V2 CTD 2000m,Sea-Bird Electronics,SBE 16plus V2,16-50325,3.1.8,,,PI,University of Washington
+ATCWK-67627-00010,,Sensor,0,CTD Profiler: CTDPF Series B,Seabird 16+V2 CTD 2000m,Sea-Bird Electronics,SBE 16plus V2,16-50326,3.1.8,,,PI,University of Washington
+ATCWK-67627-00011,,Sensor,0,CTD Profiler: CTDPF Series B,Seabird 16+V2 CTD 2000m,Sea-Bird Electronics,SBE 16plus V2,16-50327,3.1.8,,,PI,University of Washington
 ATOSU-58317-00007,ATOSU-58317-00007,Sensor,0,Underwater Digital Still Camera: CAMDS Series C,CAMDS-C,Kongsberg Underwater Technology Inc,Custom,100,,,,,
 ATOSU-58317-00008,ATOSU-58317-00008,Sensor,0,Underwater Digital Still Camera: CAMDS Series C,CAMDS-C,Kongsberg Underwater Technology Inc,Custom,105,,,,,
 ATOSU-58317-00012,ATOSU-58317-00012,Sensor,0,Underwater Digital Still Camera: CAMDS Series B,Underwater Digital Still Camera (CAMDS),Kongsberg Underwater Technology Inc,Custom,117,,,,,
@@ -396,12 +410,14 @@ CGINS-ADCPAM-43106,N00015,Sensor,1,ADCP Velocity Profiler (short range) for Glid
 CGINS-ADCPAM-43111,N00728,Sensor,1,ADCP Velocity Profiler (short range) for Glider: ADCPA Series M,ADCP for Slocum Glider,Teledyne RDI,Explorer DVL 600 kHz,643111,,20130125,,,
 CGINS-ADCPAM-43473,N00320,Sensor,1,ADCP Velocity Profiler (short range) for Glider: ADCPA Series M,ADCP for Slocum Glider,Teledyne RDI,Explorer DVL 600 kHz,643473,,20121228,,,
 CGINS-ADCPAM-43474,N00325,Sensor,1,ADCP Velocity Profiler (short range) for Glider: ADCPA Series M,ADCP for Slocum Glider,Teledyne RDI,Explorer DVL 600 kHz,643474,,20121228,,,
+CGINS-ADCPAM-44067,,Sensor,1,ADCP Velocity Profiler (short range) for Glider: ADCPA Series M,ADCP for Slocum Glider,Teledyne RDI,Explorer DVL 600 kHz,644067,,,,,
 CGINS-ADCPAM-48292,N00335,Sensor,1,ADCP Velocity Profiler (short range) for Glider: ADCPA Series M,ADCP for Slocum Glider,Teledyne RDI,Explorer DVL 600 kHz,648292,,20130806,,,
 CGINS-ADCPAM-48875,N00031,Sensor,1,ADCP Velocity Profiler (short range) for Glider: ADCPA Series M,ADCP for Slocum Glider,Teledyne RDI,Explorer DVL 600 kHz,648875,,20130412,,,
 CGINS-ADCPAM-48877,N00117,Sensor,1,ADCP Velocity Profiler (short range) for Glider: ADCPA Series M,ADCP for Slocum Glider,Teledyne RDI,Explorer DVL 600 kHz,648877,,20130701,186935,,
 CGINS-ADCPAM-48878,,Sensor,1,ADCP Velocity Profiler (short range) for Glider: ADCPA Series M,ADCP for Slocum Glider,Teledyne RDI,Explorer DVL 600 kHz,648878,,,,,
 CGINS-ADCPAM-49015,N00146,Sensor,1,ADCP Velocity Profiler (short range) for Glider: ADCPA Series M,ADCP for Slocum Glider,Teledyne RDI,Explorer DVL 600 kHz,649015,,20130701,,,
 CGINS-ADCPAM-49016,N00141,Sensor,1,ADCP Velocity Profiler (short range) for Glider: ADCPA Series M,ADCP for Slocum Glider,Teledyne RDI,Explorer DVL 600 kHz,649016,,20130701,,,
+CGINS-ADCPAM-49653,,Sensor,1,ADCP Velocity Profiler (short range) for Glider: ADCPA Series M,ADCP for Slocum Glider,Teledyne RDI,Explorer DVL 600 kHz,649653,,,,,
 CGINS-ADCPAM-49696,N00151,Sensor,1,ADCP Velocity Profiler (short range) for Glider: ADCPA Series M,ADCP for Slocum Glider,Teledyne RDI,Explorer DVL 600 kHz,649696,,20130806,,,
 CGINS-ADCPAM-49697,N00330,Sensor,1,ADCP Velocity Profiler (short range) for Glider: ADCPA Series M,ADCP for Slocum Glider,Teledyne RDI,Explorer DVL 600 kHz,649697,,20130806,,,
 CGINS-ADCPAM-49982,N00043,Sensor,1,ADCP Velocity Profiler (short range) for Glider: ADCPA Series M,ADCP for Slocum Glider,Teledyne RDI,Explorer DVL 600 kHz,649982,,20130806,,,
@@ -1206,6 +1222,7 @@ CGINS-DOSTAM-00604,,Sensor,1,Dissolved Oxygen Stable Response for Glider: DOSTA 
 CGINS-DOSTAM-00605,,Sensor,1,Dissolved Oxygen Stable Response for Glider: DOSTA Series M,DOSTA for Slocum Glider,Aanderaa,Optode 4831,605,,,,CGSN Glider Instrument Pool,
 CGINS-DOSTAM-00662,,Sensor,1,Dissolved Oxygen Stable Response for Glider: DOSTA Series M,DOSTA for Slocum Glider,Aanderaa,Optode 4831,662,,,,CGSN Glider Instrument Pool,Woods Hole Oceanographic Institution
 CGINS-DOSTAM-01059,,Sensor,1,Dissolved Oxygen Stable Response for Glider: DOSTA Series M,DOSTA for Slocum Glider,Aanderaa,Optode 4831,1059,,,,CGSN Glider Instrument Pool,
+CGINS-DOSTAM-99999,,Sensor,1,Dissolved Oxygen Stable Response for Glider: DOSTA Series M,DOSTA for Slocum Glider,Aanderaa,Optode 4831,UNKNOWN,,,,Placeholder for unknown S/N,
 CGINS-DOSTAM-01407,,Sensor,1,Dissolved Oxygen Stable Response for Glider: DOSTA Series M,DOSTA for Slocum Glider,Aanderaa,Optode 4831,1407,,,,CGSN Glider Instrument Pool,
 CGINS-DOSTAN-01519,,Sensor,1,Dissolved Oxygen for AUV: DOSTA Series N,DOSTA for Hydroid AUV,Aanderaa,Optode 4330,1519,,,,CGSN AUV Instrument Pool,Woods Hole Oceanographic Institution
 CGINS-DOSTAN-01520,,Sensor,1,Dissolved Oxygen for AUV: DOSTA Series N,DOSTA for Hydroid AUV,Aanderaa,Optode 4330,1520,,,,CGSN AUV Instrument Pool,Woods Hole Oceanographic Institution
@@ -1777,6 +1794,7 @@ CGINS-MOPAK0-11345,,Sensor,0,3-Axis Motion Pack: MOPAK,,MicroStrain,3DM-GX3-25,6
 CGINS-MOPAK0-11347,,Sensor,0,3-Axis Motion Pack: MOPAK,,MicroStrain,3DM-GX3-25,6223-4220-11347,,,,,
 CGINS-MOPAK0-11351,,Sensor,0,3-Axis Motion Pack: MOPAK,,MicroStrain,3DM-GX3-25,6223-4220-11351,,,,,
 CGINS-MOPAK0-11353,,Sensor,0,3-Axis Motion Pack: MOPAK,,MicroStrain,3DM-GX3-25,6223-4220-11353,,,,,
+CGINS-MOPAK0-11355,,Sensor,0,3-Axis Motion Pack: MOPAK,,MicroStrain,3DM-GX3-25,6223-4220-11355,,,,,
 CGINS-MOPAK0-11357,OL000342,Sensor,0,3-Axis Motion Pack: MOPAK,MOPAK - 3-Axis Motion Pack,MicroStrain,3DM-GX3-25,6223-4220-11357,,,,,
 CGINS-MOPAK0-11358,,Sensor,0,3-Axis Motion Pack: MOPAK,,MicroStrain,3DM-GX3-25,6223-4220-11358,,,,,
 CGINS-MOPAK0-11360,,Sensor,0,3-Axis Motion Pack: MOPAK,,MicroStrain,3DM-GX3-25,6223-4220-11360,,,,,
